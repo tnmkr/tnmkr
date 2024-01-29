@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanmay
-- 👀 I’m interested in anything and everything to do with computers, really.
+- 👀 I’m interested in anything and everything related to do computers, really.
 - 🌱 I’m currently learning neovim, git and whatever comes my way.
 - 💞️ I’m looking to collaborate on hackathons.
 - 😄 Pronouns: he/him
