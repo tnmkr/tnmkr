@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tnmkr
+- 👋 Hi, I’m Tanmay
 - 👀 I’m interested developing software.
 - 🌱 I’m currently learning neovim, git and whatever comes my way.
 - 💞️ I’m looking to collaborate on hackathons.
